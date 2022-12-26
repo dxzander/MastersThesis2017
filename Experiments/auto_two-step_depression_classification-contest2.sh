@@ -1,7 +1,7 @@
 #!/bin/bash
 
-RESULTS="$HOME/ownCloud/Maestría/Proyectos/depression reddit/results"
-EVAL="$HOME/ownCloud/Maestría/Datasets/reddit-depression/training/scripts evaluation"
+RESULTS="../Results"
+EVAL="../Dataset/training/scripts evaluation"
 CLF="nbc"
 PROC="contest"
 TOTAL=10

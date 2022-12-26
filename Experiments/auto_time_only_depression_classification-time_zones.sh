@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RESULTS="$HOME/ownCloud/Maestría/Proyectos/depression reddit/results"
+RESULTS="../Results"
 TOTAL=10
 CLF="nbc"
 MODE="${CLF}_user_time"

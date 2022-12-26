@@ -3,10 +3,10 @@
 CLF="nbc"
 PROC="combo"
 ROOTF=$HOME/Desktop/$PROC
-DATA=$HOME/ownCloud/Maestría/Datasets/reddit-depression
-RESULTS="$HOME/ownCloud/Maestría/Proyectos/depression reddit/results"
+DATA="../Dataset"
+RESULTS="../Results"
 MODE="user_stats_time_weekly_activity_${CLF}"
-EVAL="$HOME/ownCloud/Maestría/Datasets/reddit-depression/training/scripts evaluation"
+EVAL="../Dataset/training/scripts evaluation"
 CLAS="$RESULTS/model_${PROC}_${CLF}_post.pkl"
 TPROC="time"
 WPROC="weekly"

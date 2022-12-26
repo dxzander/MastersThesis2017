@@ -42,8 +42,8 @@ fi
 CNKF=$HOME/Desktop/$CHUNK
 TMP=$CNKF/tmp
 VAR=$CNKF/var
-DATA=$HOME/ownCloud/Maestría/Datasets/reddit-depression
-RESULTS="$HOME/ownCloud/Maestría/Proyectos/depression reddit/results"
+DATA="../Dataset"
+RESULTS="../Results"
 TRAIN=$VAR/train.txt
 TEST=$VAR/test.txt
 HIST=$VAR/histogram.pkl
